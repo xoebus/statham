@@ -1,8 +1,6 @@
 # statham
 
-*jason statham is the per-domain transporter*
-
-![Jason Statham in The Transporter](http://i.imgur.com/9EebofV.jpg)
+*statham is the per-domain transporter*
 
 ## installation
 
